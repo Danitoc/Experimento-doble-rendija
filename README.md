@@ -17,10 +17,9 @@ Esta teoría permite hablar del multiverso, en donde las partículas que están 
 
 
 ## Simulación 
-Para las simulaciones utilizamos un modelo matemático basado en los grafos del sistema y las matrices adyacencia propias de los mismos, posteriormente realizamos una simulación en la librería de complejos java importando la libreria del github http://github.com/AlejandroBohal
+Por fallos en el código no me es posible presentar las simulaciones.
 
-**Explicación e imágenes**
-Por fallos en las simulaciones no es posible presentar imagenes de las pruebas.
+Por fallos en las simulaciones no es posible presentar imágenes de las pruebas.
 
 ## Elaboración 
 **Materiales:**
@@ -29,30 +28,44 @@ Por fallos en las simulaciones no es posible presentar imagenes de las pruebas.
 * Una hoja carta.
 * Minas 0.7.
 * Una hoja de bisturí.
-* Camara fotográfica
+* 1/4 de hoja de papel aluminio.
+* Cinta aislante.
+* Camara fotográfica.
+
 
 **Pasos:**
 
 * Pegamos una mina en la mitad del laser sin lograr el efecto de la doble rendija.
 * Cambio de proceder para lograr el experimento de la doble rendija.
 * Tomamos una hoja blanca donde se hace un cuadro donde se va a insertar un trozo de aluminio con unos cortes para simular la doble rendija.
-* Hicimos una base con palos de balso y de paleta.(Para la elevación se hizo uso de un borrador de tablero)
+* Hicimos una base con palos de balso y de paleta.(Para la elevación se hizo uso de un borrador de tablero y una caja de celular vacia)
 * Con la hoja blanca se hace una base para que se pueda observar mejor el efecto.
+* Para que el laser se mantenga encendido es necesario hace uso de cinta aislante para que el interruptor se mantenga oprimido.
+
 
 **Base del laser y laser**
-* Base con laser.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/IMG_1717.JPG)
 
-* Mina en la punta del laser ubicada en  el centro de la circunferencia.![Alt text](Fotos experimento/IMG_1715.JPG)
+Primer intento de evidenciar el fenómeno de la doble rendija(Mina).
+* Base(Balso y borrador) con laser con mina en la punta ubicada en el centro de la circunferencia.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/IMG_1715.JPG)
 
-
-
-
+Segundo intento de evidenciar el fenómeno de la doble rendija(Papel aluminio).
+* Base(Balso y caja de celular) con laser encendido.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/exp.jpeg)
+* Doble rendija y hoja para evidenciar el fenómeno.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/exper.jpeg)
 
 
 ## Resultado 
+Resultado primer experimento.
+* Resultado fallido, lo único que se evidencia es una sobra proyectada de la mina.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/IMG_1731.JPG)
+
+Resultado segundo experimento.
+* Resultado donde se evidencia el fenómeno de la doble rendija.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/exper.jpeg)
+* ![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/resul.jpeg)
+
+Fotos adicionales.
+* Rendija.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/rendija.jpeg)
+* Rendija con zoom 7x.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/rendija%207x%20de%20zoom.jpeg)
 
 
 
-## Autores
-Daniel Ricardo Villamil Gómez 
-no se 
+## Autor
+Daniel Ricardo Villamil Gómez
