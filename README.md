@@ -39,9 +39,12 @@ Por fallos en las simulaciones no es posible presentar imagenes de las pruebas.
 * Hicimos una base con palos de balso y de paleta.(Para la elevación se hizo uso de un borrador de tablero)
 * Con la hoja blanca se hace una base para que se pueda observar mejor el efecto.
 
-**Imagenes**
-
 **Base del laser y laser**
+* Base con laser.![Alt text](Fotos experimento/IMG_1717.JPG "Base creada")
+
+* Mina en la punta del laser ubicada en  el centro de la circunferencia.![Alt text](Fotos experimento/IMG_1715.JPG)
+
+
 
 
 
