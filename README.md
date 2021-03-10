@@ -58,8 +58,8 @@ Resultado primer experimento.
 * Resultado fallido, lo único que se evidencia es una sobra proyectada de la mina.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/IMG_1731.JPG)
 
 Resultado segundo experimento.
-* Resultado donde se evidencia el fenómeno de la doble rendija.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/exper.jpeg)
-* ![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/resul.jpeg)
+* Resultado donde se evidencia el fenómeno de la doble rendija.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/resu.jpeg)
+* Segunda foto.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/resul.jpeg)
 
 Fotos adicionales.
 * Rendija.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/rendija.jpeg)
