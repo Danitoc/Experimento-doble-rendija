@@ -40,7 +40,7 @@ Por fallos en las simulaciones no es posible presentar imagenes de las pruebas.
 * Con la hoja blanca se hace una base para que se pueda observar mejor el efecto.
 
 **Base del laser y laser**
-* Base con laser.![Alt text](Fotos experimento/IMG_1717.JPG "Base creada")
+* Base con laser.![Alt text](https://github.com/Danitoc/Experimento-doble-rendija/blob/master/Fotos%20experimento/IMG_1717.JPG)
 
 * Mina en la punta del laser ubicada en  el centro de la circunferencia.![Alt text](Fotos experimento/IMG_1715.JPG)
 
